@@ -4,7 +4,7 @@
 //verify the user login info
 session_start();
 $_SESSION[ 'username' ]="Niharika";
-$_SESSION[ 'favcat' ]="Niharika";
+$_SESSION[ 'favcat' ]="book";
 echo"we have saved your session";
 
 ?>
